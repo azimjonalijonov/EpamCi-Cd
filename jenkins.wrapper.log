@@ -1,0 +1,19 @@
+2023-11-17 01:05:10,912 DEBUG - Starting WinSW in the service mode
+2023-11-17 01:05:11,141 INFO  - Starting C:\Users\User\.jdks\temurin-17.0.8.1\bin\java.exe -Xrs -Xmx256m -Dhudson.lifecycle=hudson.lifecycle.WindowsServiceLifecycle -jar "D:\JENkinZ\jenkins.war" --httpPort=1111 --webroot="C:\ProgramData\Jenkins\war"
+2023-11-17 01:05:11,207 INFO  - Extension loaded: killOnStartup
+2023-11-17 01:05:11,223 WARN  - The requested PID file 'C:\ProgramData\Jenkins\jenkins.pid' does not exist. The runaway process won't be checked
+2023-11-17 01:05:11,337 INFO  - Started process 16312
+2023-11-17 01:05:11,393 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-11-17 01:05:11,400 INFO  - Recording PID of the started process:16312. PID file destination is C:\ProgramData\Jenkins\jenkins.pid
+2023-11-17 07:42:18,958 DEBUG - Starting WinSW in the service mode
+2023-11-17 07:42:19,192 INFO  - Starting C:\Users\User\.jdks\temurin-17.0.8.1\bin\java.exe -Xrs -Xmx256m -Dhudson.lifecycle=hudson.lifecycle.WindowsServiceLifecycle -jar "D:\JENkinZ\jenkins.war" --httpPort=1111 --webroot="C:\ProgramData\Jenkins\war"
+2023-11-17 07:42:19,426 INFO  - Extension loaded: killOnStartup
+2023-11-17 07:42:19,473 DEBUG - Checking the potentially runaway process with PID=16312
+2023-11-17 07:42:20,121 DEBUG - No runaway process with PID=16312. The process has been already stopped.
+2023-11-17 07:42:20,483 INFO  - Started process 6496
+2023-11-17 07:42:20,537 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-11-17 07:42:20,539 INFO  - Recording PID of the started process:6496. PID file destination is C:\ProgramData\Jenkins\jenkins.pid
+2023-11-17 11:13:53,885 DEBUG - Starting WinSW in the service mode
+2023-11-17 11:13:56,988 DEBUG - Completed. Exit code is 0
+2023-11-17 11:19:54,878 DEBUG - Starting WinSW in the service mode
+2023-11-17 11:19:56,835 DEBUG - Completed. Exit code is 0

@@ -1,0 +1,50 @@
+2023-11-16 20:05:12.075+0000 [id=1]	INFO	winstone.Logger#logInternal: Beginning extraction from war file
+2023-11-16 20:05:13.595+0000 [id=1]	WARNING	o.e.j.s.handler.ContextHandler#setContextPath: Empty contextPath
+2023-11-16 20:05:13.680+0000 [id=1]	INFO	org.eclipse.jetty.server.Server#doStart: jetty-10.0.17; built: 2023-10-02T04:04:10.314Z; git: a0f5f05abaa6c3aabb7c3d35f10a6f412ab8b05f; jvm 17.0.8.1+1
+2023-11-16 20:05:13.967+0000 [id=1]	INFO	o.e.j.w.StandardDescriptorProcessor#visitServlet: NO JSP Support for /, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-11-16 20:05:14.046+0000 [id=1]	INFO	o.e.j.s.s.DefaultSessionIdManager#doStart: Session workerName=node0
+2023-11-16 20:05:14.998+0000 [id=1]	INFO	hudson.WebAppMain#contextInitialized: Jenkins home directory: C:\ProgramData\Jenkins\.jenkins found at: EnvVars.masterEnvVars.get("JENKINS_HOME")
+2023-11-16 20:05:15.139+0000 [id=1]	INFO	o.e.j.s.handler.ContextHandler#doStart: Started w.@64b70919{Jenkins v2.426.1,/,file:///C:/ProgramData/Jenkins/war/,AVAILABLE}{C:\ProgramData\Jenkins\war}
+2023-11-16 20:05:15.204+0000 [id=1]	INFO	o.e.j.server.AbstractConnector#doStart: Started ServerConnector@301eda63{HTTP/1.1, (http/1.1)}{0.0.0.0:1111}
+2023-11-16 20:05:15.247+0000 [id=1]	INFO	org.eclipse.jetty.server.Server#doStart: Started Server@6c4980d3{STARTING}[10.0.17,sto=0] @3744ms
+2023-11-16 20:05:15.251+0000 [id=28]	INFO	winstone.Logger#logInternal: Winstone Servlet Engine running: controlPort=disabled
+2023-11-16 20:05:15.569+0000 [id=33]	INFO	jenkins.InitReactorRunner$1#onAttained: Started initialization
+2023-11-16 20:05:15.841+0000 [id=46]	INFO	jenkins.InitReactorRunner$1#onAttained: Listed all plugins
+2023-11-16 20:05:20.301+0000 [id=35]	INFO	jenkins.InitReactorRunner$1#onAttained: Prepared all plugins
+2023-11-16 20:05:20.342+0000 [id=54]	INFO	jenkins.InitReactorRunner$1#onAttained: Started all plugins
+2023-11-16 20:05:20.356+0000 [id=34]	INFO	jenkins.InitReactorRunner$1#onAttained: Augmented all extensions
+2023-11-16 20:05:21.072+0000 [id=37]	INFO	h.p.b.g.GlobalTimeOutConfiguration#load: global timeout not set
+2023-11-16 20:05:21.940+0000 [id=44]	INFO	jenkins.InitReactorRunner$1#onAttained: System config loaded
+2023-11-16 20:05:21.941+0000 [id=38]	INFO	jenkins.InitReactorRunner$1#onAttained: System config adapted
+2023-11-16 20:05:22.029+0000 [id=37]	INFO	jenkins.InitReactorRunner$1#onAttained: Loaded all jobs
+2023-11-16 20:05:22.047+0000 [id=51]	INFO	jenkins.InitReactorRunner$1#onAttained: Configuration for all jobs updated
+2023-11-16 20:05:22.178+0000 [id=38]	INFO	jenkins.InitReactorRunner$1#onAttained: Completed initialization
+2023-11-16 20:05:22.240+0000 [id=26]	INFO	hudson.lifecycle.Lifecycle#onReady: Jenkins is fully up and running
+2023-11-17 02:42:24.872+0000 [id=1]	INFO	winstone.Logger#logInternal: Beginning extraction from war file
+2023-11-17 02:42:25.196+0000 [id=1]	WARNING	o.e.j.s.handler.ContextHandler#setContextPath: Empty contextPath
+2023-11-17 02:42:25.299+0000 [id=1]	INFO	org.eclipse.jetty.server.Server#doStart: jetty-10.0.17; built: 2023-10-02T04:04:10.314Z; git: a0f5f05abaa6c3aabb7c3d35f10a6f412ab8b05f; jvm 17.0.8.1+1
+2023-11-17 02:42:26.111+0000 [id=1]	INFO	o.e.j.w.StandardDescriptorProcessor#visitServlet: NO JSP Support for /, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-11-17 02:42:26.190+0000 [id=1]	INFO	o.e.j.s.s.DefaultSessionIdManager#doStart: Session workerName=node0
+2023-11-17 02:42:27.464+0000 [id=1]	INFO	hudson.WebAppMain#contextInitialized: Jenkins home directory: C:\ProgramData\Jenkins\.jenkins found at: EnvVars.masterEnvVars.get("JENKINS_HOME")
+2023-11-17 02:42:27.821+0000 [id=1]	INFO	o.e.j.s.handler.ContextHandler#doStart: Started w.@46cf05f7{Jenkins v2.426.1,/,file:///C:/ProgramData/Jenkins/war/,AVAILABLE}{C:\ProgramData\Jenkins\war}
+2023-11-17 02:42:27.884+0000 [id=1]	INFO	o.e.j.server.AbstractConnector#doStart: Started ServerConnector@25a65b77{HTTP/1.1, (http/1.1)}{0.0.0.0:1111}
+2023-11-17 02:42:27.985+0000 [id=1]	INFO	org.eclipse.jetty.server.Server#doStart: Started Server@402e37bc{STARTING}[10.0.17,sto=0] @6782ms
+2023-11-17 02:42:27.986+0000 [id=27]	INFO	winstone.Logger#logInternal: Winstone Servlet Engine running: controlPort=disabled
+2023-11-17 02:42:28.857+0000 [id=33]	INFO	jenkins.InitReactorRunner$1#onAttained: Started initialization
+2023-11-17 02:42:32.668+0000 [id=54]	INFO	jenkins.InitReactorRunner$1#onAttained: Listed all plugins
+2023-11-17 02:42:44.495+0000 [id=41]	INFO	jenkins.InitReactorRunner$1#onAttained: Prepared all plugins
+2023-11-17 02:42:44.538+0000 [id=47]	INFO	jenkins.InitReactorRunner$1#onAttained: Started all plugins
+2023-11-17 02:42:44.628+0000 [id=48]	INFO	jenkins.InitReactorRunner$1#onAttained: Augmented all extensions
+2023-11-17 02:42:46.270+0000 [id=47]	INFO	h.p.b.g.GlobalTimeOutConfiguration#load: global timeout not set
+2023-11-17 02:42:46.957+0000 [id=33]	INFO	jenkins.InitReactorRunner$1#onAttained: System config loaded
+2023-11-17 02:42:46.958+0000 [id=41]	INFO	jenkins.InitReactorRunner$1#onAttained: System config adapted
+2023-11-17 02:42:46.991+0000 [id=53]	INFO	jenkins.InitReactorRunner$1#onAttained: Loaded all jobs
+2023-11-17 02:42:47.009+0000 [id=53]	INFO	jenkins.InitReactorRunner$1#onAttained: Configuration for all jobs updated
+2023-11-17 02:42:47.127+0000 [id=50]	INFO	jenkins.InitReactorRunner$1#onAttained: Completed initialization
+2023-11-17 02:42:47.171+0000 [id=26]	INFO	hudson.lifecycle.Lifecycle#onReady: Jenkins is fully up and running
+2023-11-17 04:33:24.675+0000 [id=144]	INFO	h.p.b.g.GlobalTimeOutConfiguration#configure: global timeout has been cleared
+2023-11-17 05:24:57.438+0000 [id=197]	INFO	hudson.util.Retrier#start: Attempt #1 to do the action check updates server
+2023-11-17 05:25:25.069+0000 [id=197]	INFO	h.m.DownloadService$Downloadable#load: Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+2023-11-17 05:25:26.171+0000 [id=197]	INFO	h.m.DownloadService$Downloadable#load: Obtained the updated data file for hudson.tasks.Ant.AntInstaller
+2023-11-17 05:25:28.634+0000 [id=197]	INFO	h.m.DownloadService$Downloadable#load: Obtained the updated data file for hudson.plugins.gradle.GradleInstaller
+2023-11-17 05:25:28.635+0000 [id=197]	INFO	hudson.util.Retrier#start: Performed the action check updates server successfully at the attempt #1
